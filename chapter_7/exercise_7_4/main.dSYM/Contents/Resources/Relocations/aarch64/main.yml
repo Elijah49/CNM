@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/elijahbai/Desktop/CNM/chapter_7/exercise_7_4/main'
+relocations:     []
+...
